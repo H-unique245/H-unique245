@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **H-unique245/H-unique245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-unique245&label=Profile%20views&color=0e75b6&style=flat" alt="h-unique245" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-unique245" alt="h-unique245" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-unique245" alt="H-unique245" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aherhemant1" target="blank"><img src="https://img.shields.io/twitter/follow/aherhemant1?logo=twitter&style=for-the-badge" alt="aherhemant1" /></a> </p>
 
