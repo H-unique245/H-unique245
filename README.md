@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-unique245&label=Profile%20views&color=0e75b6&style=flat" alt="h-unique245" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/aherhemant1" target="blank"><img src="https://img.shields.io/twitter/follow/aherhemant1?logo=twitter&style=for-the-badge" alt="aherhemant1" /></a> </p>
 <p><img align="right" height="350" width="450" src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" alt=""/></p>
+<p align="left"> <a href="https://twitter.com/aherhemant1" target="blank"><img src="https://img.shields.io/twitter/follow/aherhemant1?logo=twitter&style=for-the-badge" alt="aherhemant1" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
