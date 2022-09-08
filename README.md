@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <a href="https://twitter.com/aherhemant1" target="blank"><img src="https://img.shields.io/twitter/follow/aherhemant1?logo=twitter&style=for-the-badge" alt="aherhemant1" /></a> </p>
-
+<p><img align="right" height="350" width="450" src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" alt=""/></p>
 
 - 🌱 I’m currently learning **React JS**
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **a.hemant96@gmail.com**
 
-<p><img align="right" height="350" width="450" src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" alt=""/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aherhemant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aherhemant1" height="30" width="40" /></a>
