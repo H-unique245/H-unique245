@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hemant Balu Aher</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects with cloning the websites using tech stacks HTML, CSS, JavaScript, ReactJS, Chakra UI, and other libraries and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-unique245&label=Profile%20views&color=0e75b6&style=flat" alt="h-unique245" /> </p>
 
