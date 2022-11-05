@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aherhemant1" target="blank"><img src="https://img.shields.io/twitter/follow/aherhemant1?logo=twitter&style=for-the-badge" alt="aherhemant1" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
-
+- 🌱 I’m currently learning **Typescript**
+- 💬 Ask me about **React, JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS**
+- 📁 Checkout my resume  **[Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link)**
 - 📫 How to reach me **a.hemant96@gmail.com**
-- 📁 My portfolio **https://h-unique245.github.io/**
+- 📁 Checkout my work **[Portfolio](https://h-unique245.github.io/)**
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link) -->
 
 <h3 align="left">Connect with me:</h3>
 
