@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-unique245" alt="H-unique245" /></a> </p>
 
-<p align="left" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=h-unique245&show_icons=true&locale=en&layout=compact" alt="h-unique245" /></p>
+<p align="left" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=h-unique245&langs_count=6&show_icons=true&locale=en&layout=compact&count_private=true" alt="h-unique245" /></p>
 <!-- <div> span</div> -->
 
 <!-- &nbsp; -->
