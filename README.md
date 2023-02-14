@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Github Stats : </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-unique245" alt="H-unique245" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-unique245" alt="H-unique245" /></a></p>
 
 <p align="left" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=h-unique245&langs_count=6&show_icons=true&locale=en&layout=compact&count_private=true" alt="h-unique245" /></p>
 <!-- <div> span</div> -->
@@ -85,6 +85,6 @@ Here are some ideas to get you started:
 <!-- &nbsp; -->
 <p align="left" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=h-unique245&show_icons=true&locale=en" alt="h-unique245" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-unique245&" alt="h-unique245" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-unique245" alt="h-unique245" /></p>
 
 
