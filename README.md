@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.linkedin.com/in/hemant-aher-197814b7/" target="blank"><img src="https://img.shields.io/badge/linkedIn-follow Hemant Aher-blue?logo=linkedin&style=for-the-badge" alt="aherhemant1" /></a> </p>
 <!-- linkedIn badge created by me -->
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **My SQL**
 - 💬 Ask me about **React, JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS**
 - 📄 Checkout my resume  **[Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link)**
 - 🌎 How to reach me **a.hemant96@gmail.com**
