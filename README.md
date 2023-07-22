@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+Passionate Full Stack Web Developer | MERN Stack | Masai School Graduate | Alphaware Next Technologies
 
 <!--
 **H-unique245/H-unique245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +27,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.linkedin.com/in/hemant-aher-197814b7/" target="blank"><img src="https://img.shields.io/badge/linkedIn-follow Hemant Aher-blue?logo=linkedin&style=for-the-badge" alt="aherhemant1" /></a> </p>
 <!-- linkedIn badge created by me -->
 
+- 🎓 Masai School Certified Full Stack Web Developer
+- 🚀 Actively Contributing to Alphaware Next Technologies
+- 💻 Proficient in HTML, CSS, JS, React, Node.js, MongoDB, and more
+- 📚 Continuous Learner | Committed to Enhancing Skills
+- 🌐 Seeking Opportunities to Drive Innovation and Excel in Web Development
 - 🌱 I’m currently learning **My SQL**
 - 💬 Ask me about **React, JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS**
 - 📄 Checkout my resume  **[Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link)**
