@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **React, JavaScript, HTML, CSS,React JS, Redux, Express JS, Node JS**
 - 📄 Checkout my resume  **[Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link)**
 - 🌎 How to reach me **a.hemant96@gmail.com**
-- 📁 Checkout my work **[Portfolio](https://h-unique245.github.io/)**
+- 📁 Checkout my work **[Portfolio]((https://hemant-portfolio-one.vercel.app/))**
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GCKeDmhmjuyUQPq5OrAODrrttRduvCjm/view?usp=share_link) -->
 
 <h3 align="left">Connect with me:</h3>
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/aherhemant1">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/aherhemant1" />
     </a>
-    <a href="http://h-unique245.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="http://h-unique245.github.io/" />
+    <a href="(https://hemant-portfolio-one.vercel.app/)">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://hemant-portfolio-one.vercel.app/" />
     </a>
     <a title="a.hemant96@gmail.com" href="mailto:a.hemant96@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="a.hemant96@gmail.com" />
